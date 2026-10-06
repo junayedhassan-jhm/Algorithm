@@ -14,8 +14,8 @@ int main() {
         }
     }
     if (found == 1) {
-        cout << "Found";
+        cout << "Target is Found";
     } else {
-        cout << "Not Found";
+        cout << "Target is not Found";
     }
 }
